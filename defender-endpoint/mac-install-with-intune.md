@@ -76,8 +76,6 @@ In the [Microsoft Intune admin center](https://go.microsoft.com/fwlink/?linkid=2
 
 1. On the **Configuration settings tab,** select **+ Add settings.**
 
-1. Under **Template name**, select **Extensions**.
-
 1. In the **Settings picker**, expand the **System Configuration** category, and then select **System Extensions** > **Allowed System Extensions:**
 
    ![Screenshot showing the Settings Picker](media/mac-install-with-intune/screenshot-2024-09-11-at-1.41.09 pm.png)
